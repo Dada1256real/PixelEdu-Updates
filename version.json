@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.6",
+  "latestVersion": "1.0.7",
   "releaseNotes": "PIXELEDU ENTERPRISE v1.0.6 ROLLOUT\n\nCORE UPGRADES:\n• Executive Command Center: Live telemetry bridge activated for real-time remote analytics.\n• Advanced Analytics: 45-Day Rolling Data Cube integration for Admissions, Attendance, Clinic, and Revenue.\n• UI/UX Enhancements: Hardware-accelerated CSS marquee engines and dynamic system badging.\n• HR & Payroll ERP: Added precise financial ledger synchronization for disbursed payroll batches.\n\nSYSTEM & SECURITY:\n• Resolved a blocking issue during Microsoft Edge WebView2 provisioning.\n• Upgraded the Auto-Update Engine with visible command-line extraction logs.\n• Strictly enforced database isolation protocols to preserve all user configurations during updates.\n\nYour existing database, school profile, and local configurations will be securely preserved during this update.",
-  "downloadUrl": "https://github.com/Dada1256real/PixelEdu-Updates/releases/download/v1.0.6/PixelEdu.ERP.Update.v1.0.6.zip",
+  "downloadUrl": "https://github.com/Dada1256real/PixelEdu-Updates/releases/download/v1.0.7/PixelEdu.ERP.Update.v1.0.7.zip",
   "isMandatory": false
 }
