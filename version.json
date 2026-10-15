@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.8",
- "releaseNotes": "PIXELEDU ENTERPRISE v1.0.8 ROLLOUT\n\nCORE UPGRADES:\n• LessonFlow Planner: Introduced interactive drag-and-drop scheduling, real-time PDF/Word document generation, and direct email distribution for lesson notes.\n• Advanced RBAC: Expanded security overrides to safely manage emergency teacher substitutions and ad-hoc mobile submissions.\n\nSYSTEM & SECURITY:\n• Smart Vault Daemon: Implemented an intelligent, business-hours targeted automated backup engine that compresses the local SQLite database and securely emails an encrypted copy to system administrators.\n• Cloud Sync Engine: Upgraded JSON extraction algorithms and integrated background ThreadPool routing for lightning-fast, freeze-free data synchronization.\n\nYour existing database, school profile, and local configurations will be securely preserved during this update.",
-  "downloadUrl": "https://github.com/Dada1256real/PixelEdu-Updates/releases/download/v1.0.8/PixelEdu.ERP.Update.v1.0.8.zip",
+  "latestVersion": "1.0.9",
+  "releaseNotes": "PIXELEDU ENTERPRISE v1.0.8 ROLLOUT\n\nCORE UPGRADES:\n• LessonFlow Planner: Introduced interactive drag-and-drop scheduling, real-time PDF/Word document generation, and direct email distribution for lesson notes.\n• Advanced RBAC: Expanded security overrides to safely manage emergency teacher substitutions and ad-hoc mobile submissions.\n\nSYSTEM & SECURITY:\n• Smart Vault Daemon: Implemented an intelligent, business-hours targeted automated backup engine that compresses the local SQLite database and securely emails an encrypted copy to system administrators.\n• Cloud Sync Engine: Upgraded JSON extraction algorithms and integrated background ThreadPool routing for lightning-fast, freeze-free data synchronization.\n\nYour existing database, school profile, and local configurations will be securely preserved during this update.",
+  "downloadUrl": "MANAGED_BY_PIXELENX",
   "isMandatory": false
 }
